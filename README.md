@@ -8,8 +8,7 @@ Feel free to edit the resource but make sure to pass it through and give me cred
 Credit:
 I took npc code from esx_cargodelivery  
 https://github.com/apoiat/esx_cargodelivery  
-https://github.com/XxFri3ndlyxX for all his help ;)  
-BrandsPickled for helping me test
+https://github.com/Giana
 
 So Big special thanks to those guys.  
 
