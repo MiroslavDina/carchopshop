@@ -25,10 +25,8 @@ Manually
 
 Drop the carchopshop folder into your [standalone] folder (or whichever other ensured folder you want to use)
 Add the items in items.lua to qb-core/shared/items.lua
-Support
-Support can be found on my discord
 
-https://discord.gg/sjsT9zV (Please note that the original creator did not create this QB version)
+(Please note that the original creator did not create this QB version)
 
 Wanna support me visit my patreon
 
