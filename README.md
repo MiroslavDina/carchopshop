@@ -19,14 +19,13 @@ QBCore
 qb-core
 qb-inventory
 qb-menu
-Installation
 
-Manually
+Installation:
 
-Drop the carchopshop folder into your [standalone] folder (or whichever other ensured folder you want to use)
-Add the items in items.lua to qb-core/shared/items.lua
-
-**required set items weight**
+1. Drop the carchopshop folder into your [standalone] folder (or whichever other ensured folder you want to use)
+2. Add the items in items.lua to qb-core/shared/items.lua
+3. Required configure items weight (default = 0)
+4. Add the images to  to qb-inventory/html/images/
 
 ```
 ["engine1"]=            {["name"] = "engine1",			["label"] = "Tier 1 Engine",		["weight"] = 0, ["type"] = "item",  ["image"] = "engine1.png",          ["unique"] = true,  ["useable"] = true, ["shouldClose"] = true, ["description"] = ""},
@@ -65,7 +64,13 @@ Add the items in items.lua to qb-core/shared/items.lua
 
 ```
 
-Add the images to  to qb-inventory/html/images/
+
+Preview:
+1. https://prnt.sc/AnMjvKQDBbBn
+2. https://prnt.sc/Eb003JUJBTWo
+3. https://prnt.sc/9OY0VOwc6xZk
+4. https://prnt.sc/DdSliGU3-MRV
+
 
 
 (Please note that the original creator did not create this QB version)
