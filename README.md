@@ -26,6 +26,8 @@ Manually
 Drop the carchopshop folder into your [standalone] folder (or whichever other ensured folder you want to use)
 Add the items in items.lua to qb-core/shared/items.lua
 
+**required set items weight**
+
 ```
 ["engine1"]=            {["name"] = "engine1",			["label"] = "Tier 1 Engine",		["weight"] = 0, ["type"] = "item",  ["image"] = "engine1.png",          ["unique"] = true,  ["useable"] = true, ["shouldClose"] = true, ["description"] = ""},
 
